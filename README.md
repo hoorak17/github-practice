@@ -9,7 +9,7 @@ GitHub와 로컬 PC를 연결하고
 
 ## 실습 환경
 - Windows
-- PowerShell / Git Bash
+- VScode
 - GitHub 개인 계정
 
 ---
