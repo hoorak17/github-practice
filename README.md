@@ -176,6 +176,6 @@ git push -u origin main
 
 ### Git 저장소 중첩 문제 (.git 두 개)
 - repo 하위 폴더에서 다시 `git init` 또는 `git clone` 실행 시 발생
-- 프로젝트당 `.git`은 하나만 존재해야 한다
+- 프로젝트당 `.git`은 하나만 존재해야 한다.
 
 ---
